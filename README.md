@@ -19,11 +19,11 @@ function (firstName, lastName, age){
 }
 ```
 
-| Input                   | Output |
-| -----                   | ------ |
-| "Matt", "Perrius", "46" | 'Matt Perrius 46' is stored as person    | 
-| "Bob", "Smith", "23"    | 'Bob Smith 23' is stored as person       | 
-| "Wade", "Wilson", "39"  | 'Wade Wilson 39' is stored as person     | 
+| Input                   | Output                                              |
+| -----                   | ------                                              |
+| "Matt", "Perrius", "46" | {firstName: "Matt",  lastName: "Perrius", age: "46"}| 
+| "Bob", "Smith", "23"    | {firstName: "Bob",  lastName: "Smith", age: "23"}   | 
+| "Wade", "Wilson", "39"  | {firstName: "Wade",  lastName: "Wilson", age: "39"} | 
 
 <table>
   <tr>
