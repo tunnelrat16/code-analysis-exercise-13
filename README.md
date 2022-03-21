@@ -19,16 +19,16 @@ function (firstName, lastName, age){
 }
 ```
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Input                   | Output |
+| -----                   | ------ |
+| "Matt", "Perrius", "46" | 'Matt Perrius 46' is stored as person    | 
+| "Bob", "Smith", "23"    | 'Bob Smith 23' is stored as person       | 
+| "Wade", "Wilson", "39"  | 'Wade Wilson 39' is stored as person     | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes the inputs and stores them as the value of the variable person which could then be used somewhere else in a program.</td>
   </tr>
 </table>
 
